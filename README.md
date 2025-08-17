@@ -3,6 +3,7 @@ Pinnacle is a modern and fully responsive multi-page e-commerce website built fo
 
 (Changes will be completed in the upcoming days)
 
+![Homepage](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image).png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Features
 
@@ -43,6 +44,16 @@ npm install
 5. Start the development server:
 npm start
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+📸 Screenshots
+![Category](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image1).png)
+![Products](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image2).png)
+![Discount](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image3).png)
+![FAQ](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image4).png)
+![Footer](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image5).png)
+![Shirts](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image6).png)
+![Pants](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image7).png)
+![Shoes](https://github.com/Shreyassalian7/Pinnacle_project/blob/9c2493a4f45f61cbf6f5a343fc4a43fec11d5a58/Readme(image8).png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 📄 License
 
